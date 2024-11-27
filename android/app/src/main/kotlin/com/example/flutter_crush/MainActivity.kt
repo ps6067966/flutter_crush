@@ -1,4 +1,4 @@
-package com.example.flutter_crush
+package com.pm.candy_swipe
 
 import io.flutter.embedding.android.FlutterActivity
 

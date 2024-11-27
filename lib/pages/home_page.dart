@@ -162,7 +162,7 @@ class _HomePageState extends State<HomePage>
                       Align(
                         alignment: Alignment.center,
                         child: ShadowedText(
-                          text: 'Flutter Crush',
+                          text: 'Candy Swipe',
                           color: Colors.white,
                           fontSize: 26.0,
                           shadowOpacity: 1.0,
